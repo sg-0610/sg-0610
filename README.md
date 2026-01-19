@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Saksham Gupta 👋
 
-<!--
-**sg-0610/sg-0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd Year Computer Science (Artificial Intelligence) student at the University of Greenwich.  
+I enjoy building practical software and exploring AI, web development, and data science.
 
-Here are some ideas to get you started:
+## ⚡ Skills
+- Python, Java
+- Algorithms & Data Structures
+- NLP basics, sockets/multithreading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+**London Underground Route Planner**  
+Designed a Python route planner using Dijkstra’s algorithm to optimize journeys across 280+ stations.  
+Built dashboards to visualize journey efficiency, improving travel planning by 25%.
+
+**Python-Based Chatbot with AI Integration**  
+Built a chatbot using Python + NLTK for natural language processing.  
+Implemented feedback logging and adaptive responses, improving engagement by 15%.
+
+**Multi-Client Chat Server Application (Java + GUI)**  
+Developed a real-time chat system using Java sockets and multithreading.  
+Implemented a responsive GUI and secure client-server architecture for concurrent users.
+
+## 📚 Currently Exploring
+AI, Web Development, Data Science
+
+## 🔗 Connect
+- GitHub: https://github.com/sg-0610  
+- LinkedIn: https://www.linkedin.com/in/saksham-gupta0610  
+- Email: gupta.saksham.0610@gmail.com
